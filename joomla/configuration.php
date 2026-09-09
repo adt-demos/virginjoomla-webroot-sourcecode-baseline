@@ -1,1 +1,0 @@
-/var/www/outside_webroot/configuration.php
